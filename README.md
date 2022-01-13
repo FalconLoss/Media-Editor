@@ -16,7 +16,7 @@ APP_ID        - From my.telegram.org (or @UseTGXBot)
 
 API_HASH      - From my.telegram.org (or @UseTGXBot)
 
-AUTH_USERS : Array to store users who are authorized to use the bot``
+AUTH_USERS : Array to store users who are authorized to use the bot
 ````
 ## credits 
 
