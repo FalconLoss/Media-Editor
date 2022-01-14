@@ -2,7 +2,7 @@
 Bot edit or replace Media's from channel Posts
 
 ## Demo 
-<a href="https://t.me/MediaEditorRoBot"><img src="https://img.shields.io/badge/Demo-Telegram%20Bot-blue.svg?logo=telegram"></a>
+<a href="https://t.me/MediaEdit0rbot"><img src="https://img.shields.io/badge/Demo-Telegram%20Bot-blue.svg?logo=telegram"></a>
 
 ## Deploy to Heroku
 
